@@ -38,15 +38,6 @@ React Router is used to go between Library view and Book Search.
 ![Sample UI](https://github.com/SixStringsCoder/javascript_codeAcademy_course/blob/master/React_projects/round_town/static_site/screenshots/roundTown_Desktop.jpeg)
 
 
-**Title**: *Ravenous*
-
-**Summary**: Calls the Yelp API to show local restaurants matching the food-type requested by the user.
-
-[Ravenous - README](https://github.com/SixStringsCoder/javascript_codeAcademy_course/tree/master/React_projects/ravenous)
-
-![Sample UI](https://github.com/SixStringsCoder/javascript_codeAcademy_course/blob/master/React_projects/round_town/static_site/screenshots/roundTown_Desktop.jpeg)
-
-
 **Title**: *Metronome*
 
 **Summary**: Single-page-app of a metronome with tempo slider, subdivision buttons, and time signature menu.
