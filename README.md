@@ -1,6 +1,15 @@
 ## Table of Contents of ReactJS Projects by Steve Hanlon
 
 
+**Title**: *VegHead*
+
+**Summary**: Find food in your area (or any location!) with this Yelp-API-based app.
+
+[VegHead - README](https://github.com/SixStringsCoder/veghead)
+
+![Sample UI](https://github.com/SixStringsCoder/veghead/blob/master/screenshots/sample_ui_tablet.png)
+
+
 **Title**: *Chord Speller*
 
 **Summary**: Single page app allowing music students to learn basic triads and four-note chords. Uses audio files.
