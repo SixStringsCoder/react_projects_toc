@@ -86,7 +86,7 @@ React Router is used to go between Library view and Book Search.
 
 **Title**: *Kelvin Konverter*
 
-**Summary**: Single-page-app of a character-to-unicode encode and decoder
+**Summary**: Single-page-app of Kelvin to Celsius / Fahrenheit converter.
 
 [Kelvin Konverter - README](https://github.com/SixStringsCoder/kelvinKonverter)
 
